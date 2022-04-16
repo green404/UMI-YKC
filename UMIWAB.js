@@ -1,6 +1,6 @@
 {
-	"version": "14.0",
-	"download": "https://www.difarosyidin.com/2022/03/umi-wabusiness-v120.html",
+	"version": "14.5",
+	"download": "https://www.difarosyidin.com/p/umiwab-v140-untuk-ykc.html",
 	"update": [
 		{
 			"languaje": "en",
